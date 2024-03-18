@@ -4,13 +4,13 @@
 
 Hello, I'm George. I am a **Full—stack developer** with experience in creating web applications, digital product design and developing visual design systems.
 
-My key skills include:
+**My key skills include:**
 - Creating lightweight and responsive user interfaces
 - Cross-platform software
 - APIs
 - Digital product design.
 
-I have been certified by 1C-Bitrix in the field of "Content Manager".
+I have been certified by 1C-Bitrix in the field of "_Content Manager_" and by IT School Samsung in the field of "_Android Engineering_".
 
 **My tools:**
 - **Servers**: nginx, bash, Linux, postgresql
