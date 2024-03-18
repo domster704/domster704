@@ -31,5 +31,5 @@ I have been certified by 1C-Bitrix in the field of "**_Content Manager_**" and b
 - **Commercial**: BitrixCMS
 
 ### My projects
-**Link** to my portfolio - http://ln-kr.ru/
+**Link** to my portfolio - http://portfolio.ln-kr.ru/
 
