@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing myself
 
-Hello, I'm **George**. I am a **Full—stack developer** with experience in creating web applications, digital product design and developing visual design systems.
+Hello, I'm **Grigoriy**. I am a **Full—stack developer** with experience in creating web applications, digital product design and developing visual design systems.
 
 **My key skills include:**
 - Creating lightweight and responsive user interfaces
