@@ -35,8 +35,4 @@ I have been certified by 1C-Bitrix in the field of "**_Content Manager_**" and b
 - **Commercial**:
   - BitrixCMS
   - BalenaOS, BalenaCloud, OpenBalena
-  
-<h1 align="center">My projects💻</h1>
-
-**Link** to my portfolio - https://portfolio.ln-kr.ru/
 
