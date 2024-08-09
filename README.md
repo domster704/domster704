@@ -1,6 +1,6 @@
-<h1 align="center">🙋🏻‍♀️ Introducing myself</h1>
+<h1 align="center">Hi there, I'm <b><a href="https://portfolio.ln-kr.ru/" target="_blank">Grigoriy</a></b>🙋🏻‍♀️</h1>
 
-Hello, I'm **Grigoriy**. I am a **Full—stack developer** with experience in creating web applications, DebOps, digital product design and developing visual design systems.
+I am a **Full—stack developer** with experience in creating web applications, DebOps, digital product design and developing visual design systems.
 
 **My key skills include:**
 - Creating lightweight and responsive user interfaces
