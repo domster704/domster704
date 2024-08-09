@@ -1,23 +1,21 @@
-## 🙋🏻‍♀️ Introducing myself
+<h1 align="center">🙋🏻‍♀️ Introducing myself</h1>
 
-Hello, I'm **Grigoriy**. I am a **Full—stack developer** with experience in creating web applications, digital product design and developing visual design systems.
+Hello, I'm **Grigoriy**. I am a **Full—stack developer** with experience in creating web applications, DebOps, digital product design and developing visual design systems.
 
 **My key skills include:**
 - Creating lightweight and responsive user interfaces
 - Cross-platform software
-- APIs
-- Digital product design.
+- Digital product design
+- Proficient in creating and managing websites on 1C-Bitrix CMS
+- Developing client-server applications
+- DevOps, configuring Linux servers
+- Working with databases such as PostgreSQL.
 
 I have been certified by 1C-Bitrix in the field of "**_Content Manager_**" and by IT School Samsung in the field of "**_Android Engineering_**".
-
-<br>
 <br>
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=domster704&hide=tcl&theme=dark&show_icons=true)](https://github.com/domster704)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=domster704&theme=dark&show_icons=true)
-
-<br>
-<br>
 
 **My tools:**
 - **Servers**: nginx, bash, Linux, postgresql
