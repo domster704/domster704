@@ -42,20 +42,22 @@
 - **Backend**:
   - Python, FastAPI, Pydantic, SQLAlchemy, Aiogram
   - PostgreSQL, SQLModel
+  - Strapi Headless CMS
 - **Frontend**:
-  - React.js, TypeScript, Tailwind CSS, Tilda-модули
+  - React.js, TypeScript, Tailwind CSS
 - **Инфраструктура**:
   - Docker, Docker Compose, Nginx
   - Linux (Debian/Ubuntu), Bash, systemd
   - CI/CD, systemctl, cron
+  - Ansible
 - **Сервисы и инструменты**:
   - Telegram Bot API, WebApp Auth
   - Headless CMS: Strapi
   - OpenCV (C++) для CV-задач
   - BalenaCloud, OpenBalena, Raspberry Pi 3B+
-
+  - Zabbix
+  - OpenVPN, Shadowsocks
+    
 ---
-
-📬 [Связаться через Telegram](https://t.me/ln_kr)
 
 🧠 _Открыт к новым проектам, особенно в области автоматизации, CRM и прикладной математики._
