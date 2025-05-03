@@ -1,38 +1,61 @@
-<h1 align="center">Hi there, I'm <b><a href="https://portfolio.ln-kr.ru/" target="_blank">Grigoriy</a></b>🙋🏻‍♀️</h1>
+<h1 align="center">Привет, я <b><a href="https://portfolio.ln-kr.ru/" target="_blank">Григорий</a></b> 🙋🏻‍♂️</h1>
 
-I am a **Full—stack developer** with experience in creating web applications, DevOps, digital product design and developing visual design systems.
+Я — **Fullstack-разработчик** и **DevOps-инженер**, создаю комплексные решения от фронта до инфраструктуры.  
 
-**My key skills include:**
-- Creating lightweight and responsive user interfaces
-- Cross-platform software
-- Digital product design
-- Proficient in creating and managing websites on 1C-Bitrix CMS
-- Developing client-server applications
-- DevOps, configuring Linux servers
-- Working with databases such as PostgreSQL.
+Работаю над SaaS-продуктами, CRM, системами Digital Signage, парсерами и Telegram WebApp-интерфейсами. Сочетаю инженерный подход с вниманием к UX и бизнес-логике.
 
-I have been certified by 1C-Bitrix in the field of "**_Content Manager_**" and by IT School Samsung in the field of "**_Android Engineering_**".
-<br>
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=domster704&theme=dark&show_icons=true)
+**🔧 Навыки и компетенции:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domster704&layout=compact&theme=dark&hide=python,tcl,c%23&langs_count=20)
+- Разработка Telegram-first WebApp CRM
+- FastAPI, Python (Async, Pydantic, SQLModel, Aiogram3)
+- ReactJS, Tailwind, Tilda-модули, Headless CMS (Strapi)
+- Docker, Docker Compose, CI/CD, настройка Linux-серверов
+- PostgreSQL, SQLAlchemy, SQLModel
+- Интеграции с API (ФНС, Яндекс, VK, TenChat)
+- Создание Telegram-ботов для автоматизации и рассылок
+- Bitrix (опыт), но сейчас — современные Headless CMS
+- Разработка и деплой CMS для инфоэкранов (Balena, RPi)
+- Ansible, Ansible-Galaxy - система управления конфигурациями
+- Zabbix, Zabbix Agent2, Zabbix Proxy Server, Zabbix in Docker - системы мониторинга
+- OpenVPN, Shadowsocks, obfs-simple - VPN сервисы
+- Bitwarden, Vaultwarden - self-hosted менеджеры паролей
 
-<h1 align="center">My tools🔧</h1>
+---
 
-- **Servers**:
-  - Nginx
-  - bash
-  - Linux, Ubuntu, Debian
-  - PostgreSQL
-  - Docker
-  - Shadowsocks
-  - WireGuard
-- **Languages**:
-  - Java, C++, Python, C#
-  - React.JS, JavaScript, HTML, CSS
-  - MySQL, PosgtreSQL
-- **Commercial**:
-  - BitrixCMS
-  - BalenaOS, BalenaCloud, OpenBalena
+📜 **Сертификации**:
 
+- 1C-Битрикс: _Контент-менеджер_
+- IT School Samsung: _Android-разработчик_
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domster704&theme=tokyonight&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domster704&layout=compact&theme=tokyonight&hide=java,c%23,tcl&langs_count=10)
+
+---
+
+<h1 align="center">Мои инструменты 🛠</h1>
+
+- **Backend**:
+  - Python, FastAPI, Pydantic, SQLAlchemy, Aiogram
+  - PostgreSQL, SQLModel
+- **Frontend**:
+  - React.js, TypeScript, Tailwind CSS, Tilda-модули
+- **Инфраструктура**:
+  - Docker, Docker Compose, Nginx
+  - Linux (Debian/Ubuntu), Bash, systemd
+  - CI/CD, systemctl, cron
+- **Сервисы и инструменты**:
+  - Telegram Bot API, WebApp Auth
+  - Headless CMS: Strapi
+  - OpenCV (C++) для CV-задач
+  - BalenaCloud, OpenBalena, Raspberry Pi 3B+
+
+---
+
+📬 [Связаться через Telegram](https://t.me/ln_kr)
+
+🧠 _Открыт к новым проектам, особенно в области автоматизации, CRM и прикладной математики._
