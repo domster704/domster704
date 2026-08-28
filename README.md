@@ -1,63 +1,92 @@
-<h1 align="center">Привет, я <b><a href="https://portfolio.ln-kr.ru/" target="_blank">Григорий</a></b> 🙋🏻‍♂️</h1>
+<h1 align="center">Hi, I'm <b><a href="https://portfolio.ln-kr.ru/" target="_blank">Grigory</a></b></h1>
 
-Я — **Fullstack-разработчик** и **DevOps-инженер**, создаю комплексные решения от фронта до инфраструктуры.  
+<p align="center">
+Backend & Software Engineer · Distributed Systems · Infrastructure
+</p>
 
-Работаю над SaaS-продуктами, CRM, системами Digital Signage, парсерами и Telegram WebApp-интерфейсами. Сочетаю инженерный подход с вниманием к UX и бизнес-логике.
+I am a **Backend & Software Engineer** with 5 years of commercial experience. I develop backend systems, design software architecture, and work with infrastructure — from API and data model design to deployment, monitoring, and production support.
 
----
+My main stack includes **Python, FastAPI, PostgreSQL, Redis, TypeScript, React, Docker, and Linux**. I work with microservice architectures, DDD, Clean Architecture, infrastructure automation, and CI/CD pipelines.
 
-**🔧 Навыки и компетенции:**
-
-- Разработка Telegram-first WebApp CRM
-- FastAPI, Python (Async, Pydantic, SQLModel, Aiogram3)
-- ReactJS, Tailwind, Tilda-модули, Headless CMS (Strapi)
-- Docker, Docker Compose, CI/CD, настройка Linux-серверов
-- PostgreSQL, SQLAlchemy, SQLModel
-- Интеграции с API (ФНС, Яндекс, VK, TenChat)
-- Создание Telegram-ботов для автоматизации и рассылок
-- Bitrix (опыт), но сейчас — современные Headless CMS
-- Разработка и деплой CMS для инфоэкранов (Balena, RPi)
-- Ansible, Ansible-Galaxy - система управления конфигурациями
-- Zabbix, Zabbix Agent2, Zabbix Proxy Server, Zabbix in Docker - системы мониторинга
-- OpenVPN, Shadowsocks, obfs-simple - VPN сервисы
-- Bitwarden, Vaultwarden - self-hosted менеджеры паролей
+I am interested in **distributed systems, load balancing, fault tolerance, and infrastructure engineering**. Alongside commercial development, I conduct research in the field of distributed systems and load balancing algorithms.
 
 ---
 
-📜 **Сертификации**:
+## Core Competencies
 
-- 1C-Битрикс: _Контент-менеджер_
-- IT School Samsung: _Android-разработчик_
+### Backend
+- Python, FastAPI, Pydantic
+- SQLAlchemy, SQLModel, Alembic
+- PostgreSQL, Redis
+- REST APIs, gRPC
+- Asynchronous programming (asyncio)
+- Software architecture design
+- DDD, Clean Architecture
+
+### Frontend
+- TypeScript
+- React
+- Next.js
+- Zustand
+- Tailwind CSS
+- Headless CMS (Strapi)
+
+### Infrastructure & DevOps
+- Docker, Docker Compose
+- Linux (Debian/Ubuntu)
+- Nginx
+- Bash
+- Ansible
+- CI/CD
+- systemd, cron
+- Zabbix, Zabbix Agent 2
+- OpenBalena, BalenaOS
+- VPN, networking technologies
+
+### Databases & Systems
+- PostgreSQL administration
+- Backup & replication (WAL, Barman)
+- Database optimization
+- Distributed systems concepts
+- Load balancing
+- Monitoring & observability
+
+### Other
+- Telegram Bot API
+- Telegram Web Apps
+- OpenCV
+- C++
+- External API integrations
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domster704&theme=tokyonight&show_icons=true)
+## Achievements
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domster704&layout=compact&theme=tokyonight&hide=java,c%23,tcl&langs_count=10)
+- 🥇 Winner of LCT 2025
+- 🥉 3rd place winner of LCT 2024
+- Development and maintenance of production systems
+- Experience building infrastructure from scratch
 
 ---
 
-<h1 align="center">Мои инструменты 🛠</h1>
+## Certifications
 
-- **Backend**:
-  - Python, FastAPI, Pydantic, SQLAlchemy, Aiogram
-  - PostgreSQL, SQLModel
-  - Strapi Headless CMS
-- **Frontend**:
-  - React.js, TypeScript, Tailwind CSS
-- **Инфраструктура**:
-  - Docker, Docker Compose, Nginx
-  - Linux (Debian/Ubuntu), Bash, systemd
-  - CI/CD, systemctl, cron
-  - Ansible
-- **Сервисы и инструменты**:
-  - Telegram Bot API, WebApp Auth
-  - Headless CMS: Strapi
-  - OpenCV (C++) для CV-задач
-  - BalenaCloud, OpenBalena, Raspberry Pi 3B+
-  - Zabbix
-  - OpenVPN, Shadowsocks
-    
+- 1C-Bitrix: Content Manager
+- Samsung IT School: Android Developer
+
 ---
 
-🧠 _Открыт к новым проектам, особенно в области автоматизации, CRM и прикладной математики._
+<h1 align="center">Tech Stack</h1>
+
+```text
+Backend:
+Python · FastAPI · PostgreSQL · Redis · SQLAlchemy · SQLModel
+
+Frontend:
+TypeScript · React · Next.js · Tailwind CSS
+
+Infrastructure:
+Docker · Linux · Nginx · Ansible · CI/CD · Zabbix
+
+Systems:
+OpenBalena · BalenaOS · VPN · Networking · Distributed Systems
